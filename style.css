@@ -1,0 +1,22 @@
+html {
+    height: 100%;
+}
+body{
+    margin: 0px;
+    background: linear-gradient(to right, rgb(255, 0, 247), rgb(0, 238, 255));
+    height: 100%;
+}
+table{
+    margin-left: 35%;
+    margin-top: 10%;
+    border: 1px solid #ddd;
+    width: 30%;
+    
+}
+
+th, td{
+    border: 1px solid #ddd;
+    text-align: center;
+    color: white;
+}
+
