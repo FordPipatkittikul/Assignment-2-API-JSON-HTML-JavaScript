@@ -9,7 +9,8 @@
 
 ![Screenshot (62)](https://github.com/FordPipatkittikul/Assignment-2-API-JSON-HTML-JavaScript/assets/121902625/749a72c1-f16b-416a-9c53-59022ec7b70c)
 
-![Screenshot (60)](https://github.com/FordPipatkittikul/Assignment-2-API-JSON-HTML-JavaScript/assets/121902625/b35a3454-5595-4d3e-b0b7-331cf30cbe61)
+![Screenshot (63)](https://github.com/FordPipatkittikul/Assignment-2-API-JSON-HTML-JavaScript/assets/121902625/0783e978-7869-426f-9f34-f831d9d9fee7)
+
 
 ## explanation
 
