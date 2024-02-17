@@ -15,7 +15,7 @@
 ## explanation
 
 ### index.html
-
+  using table tags to create table and name first row as U.S. Population and second row Year, Population
 ### style.css
 
 ### script.js
