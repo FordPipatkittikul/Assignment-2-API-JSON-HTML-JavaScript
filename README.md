@@ -15,7 +15,17 @@
 ## explanation
 
 ### index.html
-  using table tags to create table and name first row as U.S. Population and second row Year, Population
+  
+      Using table tags to create table and 
+      Naming first row as U.S. Population 
+      Naming Second row Year and Population.
+
 ### style.css
 
+      move table to be center at the page.
+      Making colorful background.
+      
 ### script.js
+
+      Retrieve api endpoint by fetch and transfer it in to json.
+      Itreating and each iterate create row contain year and population.
