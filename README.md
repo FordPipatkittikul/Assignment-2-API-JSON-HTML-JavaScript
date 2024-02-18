@@ -16,7 +16,6 @@
       Using table tags to create table and 
       Naming first row as U.S. Population 
       Naming Second row Year and Population.
-
 ### style.css
 
       label table to be center at the page.
