@@ -22,10 +22,10 @@
 
 ### style.css
 
-      move table to be center at the page.
+      label table to be center at the page.
       Making colorful background.
       
 ### script.js
 
-      Retrieve api endpoint by fetch and transfer it in to json.
-      Itreating and each iterate create row contain year and population.
+      Retrieve an api endpoint by fetch and transfer it in to json.
+      Itreating and each iterate create row contain year's information and population's information.
