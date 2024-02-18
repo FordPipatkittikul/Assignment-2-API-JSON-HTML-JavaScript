@@ -20,7 +20,6 @@
 
       label table to be center at the page.
       Making colorful background.
-      
 ### script.js
 
       Retrieve an api endpoint by fetch and transfer it in to json.
